@@ -100,3 +100,6 @@ This repository is maintained as a project showcase, providing an overview of th
 **TradeCenter | 2025**
 
 </div>
+
+<img width="776" height="1096" alt="image" src="https://github.com/user-attachments/assets/d6d725f5-859d-4c14-8f63-229c0ad9c729" />
+
