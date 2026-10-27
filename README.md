@@ -60,6 +60,15 @@ Designed with a focus on Borsa Istanbul (BIST100), the project aims to make algo
 
 ---
 
+## Testing & Validation
+
+TradeCenter was validated through unit, integration, functional,
+performance, and security testing, along with simulated trading scenarios.
+
+**Testing Tools:** xUnit, Moq, Entity Framework In-Memory
+
+---
+
 ## Project Demo
 
 A recorded demonstration of the application is available on YouTube.
